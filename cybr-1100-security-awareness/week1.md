@@ -5,7 +5,8 @@ What was covered this week was that Cybersecurity is thye art or practice of war
 almost everyone on earth, both their identities and information
  
 **Artifacts:**  
-- Screenshot of GitHub Pages live site  
+- <img width="1239" height="843" alt="image" src="https://github.com/user-attachments/assets/667b2c1b-e363-4a42-b4b2-a10792125471" />
+  
  
 **Reflection:**  
   Cybersecurity is very important in our everyday lives as well as in things much bigger than ourselves. In our everyday lives, if we follow certain rules and actively try to protect ourselves online we can protect our information and potentially our lives at we now it.
